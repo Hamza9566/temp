@@ -1,6 +1,6 @@
 <?php
 
-$to 		= 'rehman9788@gmail.com';
+$to 		= 'rehman@dcoder.me';
 $headers	= 'FROM: "'.$email.'"';
 
 //All form values
